@@ -1,0 +1,30 @@
+body.delightful {
+	--accent: #44c28f;
+	--accent-overlay: #d2d2d2;
+	--navbar-accent: #d2d2d2;
+	--background: #212121;
+	--body-background: #212121;
+	--background-darker: #212121;
+	--current-background: #212121;
+	--navbar-background: #212121;
+	--navbar-active-background: #2d2d2d;
+	--input-background: #212121;
+	--modal-background: #212121;
+	--modal-border: #212121;
+	--success: #44c28f;
+	--success-hover: #69cea5;
+	--primary: #44c28f;
+	--primary-hover: #44c28f;
+	--danger: #f05050;
+	--danger-hover: #f05050;
+	--text-title: #d2d2d2;
+	--text-default: var(--text-title);
+	--icons-background: #2d2d2d;
+	--osk-background: var(--body-background);
+	--osk-button-background: var(--input-background);
+	--osk-button-border: var(--navbar-background);
+	--action-icon: #d2d2d2;
+	--action-icon-hover: #44c28f;
+	--action-icon-active: #44c28f;
+	--icon-disabled: #708c76;
+}
