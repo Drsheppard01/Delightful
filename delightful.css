@@ -28,3 +28,21 @@ body.delightful {
 	--action-icon-active: #44c28f;
 	--icon-disabled: #708c76;
 }
+
+ /* Rounded corners */
+
+  .Sidebar__section a,
+  .Sidebar__section button,
+  .gameCard,
+  .gameListItem,
+  input,
+  select,
+  .MuiPaper-root {
+    border-radius: 6px;
+  }
+  .modal,
+  .Dialog,
+  .MuiDialog-paper {
+    border-radius: 12px;
+  }
+}
